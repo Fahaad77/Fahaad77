@@ -1,4 +1,4 @@
-# Hi, I'm Fahad Alzahrani 👋
+# Hi, I'm Dr. Fahad Alzahrani 👋
 
 ### 🤖 AI Engineer • Researcher • 
 
