@@ -116,14 +116,6 @@ My research spans **AI, machine learning, computer vision, NLP, intelligent syst
 
 ---
 
-## 📊 GitHub Activity
-
-![Fahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fahaad77&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahaad77&layout=compact&hide_border=true)
-
----
-
 ### 🌐 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Fahaad77-181717?logo=github)](https://github.com/Fahaad77)
